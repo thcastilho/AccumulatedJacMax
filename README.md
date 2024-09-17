@@ -99,4 +99,4 @@ This will calculate the Accumulated JaccardMax metric and evaluate it based on t
 
 ## Acknowledgments
 
-We are grateful to São Paulo Research Foundation - FAPESP for the financial support (grants 2023/01828-4 and 2018/15597-6).
+The authors are grateful to the São Paulo Research Foundation - FAPESP (grant \#2018/15597-6), the Brazilian National Council for Scientific and Technological Development - CNPq (grants \#313193/2023-1 and \#422667/2021-8), and Petrobras (grant \#2023/00095-3) for their financial support.
