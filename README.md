@@ -17,16 +17,22 @@ Department of Statistics, Applied Mathematics, and Computing, São Paulo State U
 
 The *Accumulated JaccardMax* (AccJacMax) measure is a novel unsupervised effectiveness estimation method based on rank correlation, designed for image retrieval tasks. It provides robust estimations without the need for training or labeled data.
 
-If you use this code, please cite our [paper](https://isvc.net):
+If you use this code, please cite our [paper](https://doi.org/10.1007/978-3-031-77389-1_4):
 
 ```latex
-@inproceedings{Almeida2024AccJacMax,
-  author    = {Thiago César Castilho Almeida and Lucas Pascotti Valem and Daniel Carlos Guimarães Pedronette},
-  title     = {Unsupervised Effectiveness Estimation Measure Based on Rank Correlation for Image Retrieval},
-  booktitle = {19th International Symposium on Visual Computing (ISVC)},
-  year      = {2024},
-  address   = {Lake Tahoe, NV, USA},
+@InProceedings{10.1007/978-3-031-77389-1_4,
+author="Almeida, Thiago C{\'e}sar Castilho
+and Valem, Lucas Pascotti
+and Pedronette, Daniel Carlos Guimar{\~a}es",
+title="Unsupervised Effectiveness Estimation Measure Based on Rank Correlation for Image Retrieval",
+booktitle="Advances in Visual Computing",
+year="2025",
+publisher="Springer Nature Switzerland",
+address="Cham",
+pages="43--55",
+isbn="978-3-031-77389-1"
 }
+
 ```
 
 ## Installation and Dependencies
